@@ -1,5 +1,6 @@
 
-<img align='right' src="https://user-images.githubusercontent.com/78506173/215819499-21906341-2ae7-4c7d-b924-ce76084c5233.jpeg" height="200">
+<img align='right' src="https://user-images.githubusercontent.com/78506173/215821583-929f9e63-b123-4bbc-8b82-8d0e7c921cbf.jpeg" height="200">
+
 
 
 <img src="https://img.shields.io/static/v1?label=OLIVIER&message=PIRONI&color=f8efd4&style=for-the-badge&logo=GitHub" height="35">
