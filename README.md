@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**olivierpironi/olivierpironi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://user-images.githubusercontent.com/78506173/215819499-21906341-2ae7-4c7d-b924-ce76084c5233.jpeg" height="200">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/static/v1?label=OLIVIER&message=PIRONI&color=f8efd4&style=for-the-badge&logo=GitHub" height="35">
+ 
+
+### Olá! Bem vindo ao meu GitHub!
+
+<p>
+
+Entusiasta do mundo tech, busco minha primeira <br/>
+oportunidade como **desenvolvedor Java**.<br/>
+<i class="devicon-java-plain-wordmark colored"></i>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="50"/>
+</div> 
+
+</p>
+<hr>
+     
+
+<div>
+<a href = "mailto:pironiolivier@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="20"></a>
+<a href="https://www.linkedin.com/in/olivierpironi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="20"></a>   
+<a href="https://olivierpironi.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank" height="20"></a>   
+</div>
+
