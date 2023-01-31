@@ -11,7 +11,8 @@
 <p>
 
 Entusiasta do mundo tech, busco minha primeira <br/>
-oportunidade como **desenvolvedor Java**.<br/>
+oportunidade como desenvolvedor java.<br/>
+ **Confira meus projetos pessoais!**<br/>
 <i class="devicon-java-plain-wordmark colored"></i>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="50"/>
