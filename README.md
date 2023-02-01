@@ -13,8 +13,9 @@
 
 Entusiasta do mundo tech, busco minha primeira <br/>
 oportunidade como desenvolvedor java.<br/>
- **Estou disponível para inicio imediato e em tempo integral,**<br/>
-  **confira meus projetos pessoais!**<br/>
+**Estou disponível para inicio imediato e em tempo integral,**<br/>
+**confira meus projetos pessoais!**<br/>
+
 <i class="devicon-java-plain-wordmark colored"></i>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="50"/>
@@ -28,6 +29,7 @@ oportunidade como desenvolvedor java.<br/>
      
 
 <div>
+ Confira também meus artigos no Hashnode e meu perfil no LinkedIn: <br/><br/>
 <a href = "mailto:pironiolivier@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="20"></a>
 <a href="https://www.linkedin.com/in/olivierpironi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="20"></a>   
 <a href="https://olivierpironi.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank" height="20"></a>   
