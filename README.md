@@ -30,7 +30,7 @@ oportunidade como desenvolvedor java.<br/>
      
 
 <div>
- Confira também meus artigos no Hashnode e meu perfil no LinkedIn: <br/><br/>
+ <h3> Confira também meus artigos no Hashnode e meu perfil no LinkedIn: </h3><br/><br/>
 <a href = "mailto:pironiolivier@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="20"></a>
 <a href="https://www.linkedin.com/in/olivierpironi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="20"></a>   
 <a href="https://olivierpironi.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank" height="20"></a> 
